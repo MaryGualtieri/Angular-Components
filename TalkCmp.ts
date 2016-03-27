@@ -1,7 +1,7 @@
 @Component ({
-        selector: ‘talk-cmp’,
-       directives: [FormattedRating, WatchButton, RateButton],
-      templateUrl: ‘talk_cmp.html’
+    selector: ‘talk-cmp’,
+    directives: [FormattedRating, WatchButton, RateButton],
+    templateUrl: ‘talk_cmp.html’
 })
 
 class TalkCmp {
